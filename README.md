@@ -19,8 +19,8 @@ This project is a simple To-Do List web application that enables users to manage
 - **JavaScript:** Task management, including adding, editing, deleting tasks, and handling LocalStorage for persistence.
 
 ## How It Works :
--**Adding Tasks:** Enter a task in the input field and click the "Add" button. The task will appear in the list.
--**Editing Tasks:** Click the "Edit" button next to any task. A prompt will appear allowing you to modify the task text.
--**Deleting Tasks:** To remove a task, click the "Delete" button next to it.
--**Marking as Complete:** Click the checkbox next to a task to mark it as complete. Completed tasks are visually differentiated with a line-through effect.
--**Persistent Tasks:** Tasks are saved to LocalStorage. Reloading the page will still display all previously added tasks
+- **Adding Tasks:** Enter a task in the input field and click the "Add" button. The task will appear in the list.
+- **Editing Tasks:** Click the "Edit" button next to any task. A prompt will appear allowing you to modify the task text.
+- **Deleting Tasks:** To remove a task, click the "Delete" button next to it.
+- **Marking as Complete:** Click the checkbox next to a task to mark it as complete. Completed tasks are visually differentiated with a line-through effect.
+- **Persistent Tasks:** Tasks are saved to LocalStorage. Reloading the page will still display all previously added tasks
